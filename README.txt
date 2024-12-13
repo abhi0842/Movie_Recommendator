@@ -2,7 +2,7 @@
     This is a simple implementation of a Movie Recommendation System in C++.
 
 2. Introduction
-    This program predicts movie recommendations for a user based on the ratings given by multiple users. It utilizes cosine similarity to calculate the similarity between users and predicts ratings for             movies that the target user hasn’t rated.
+    This program predicts movie recommendations for a user based on the ratings given by multiple users. It utilizes cosine similarity to calculate the similarity between users and predicts ratings for movies that the target user hasn’t rated.
 
 3. Requirements to Run the Program
     C++ compiler (e.g., GCC).
